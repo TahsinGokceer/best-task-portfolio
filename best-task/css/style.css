@@ -1,0 +1,54 @@
+h3{
+    font-size: 75px;
+}
+
+h4{
+    font-size: 40px;
+}
+
+p{
+    font-size: 40px;
+    font-family: "Monaco", monospace;
+}
+
+h6{
+    font-size: 25px;
+}
+
+.buton{
+    font-size: 28px;
+}
+
+.right{
+    position: absolute;
+
+    right: 15px; 
+}
+
+/* ul{
+    font-size: 20px;
+} */
+
+.navbar-font-size{
+    font-size: 23px;
+}
+
+.yazi-tipi{
+    font-weight: 200;
+}
+
+.center{
+    text-align: center;
+}
+
+.cizgi{
+    background: black;
+}
+
+.yazı-sekli{
+    font-family: Audiowide, sans-serif;
+}
+
+.sola-yasla{    
+    padding-left: 5%;
+}
